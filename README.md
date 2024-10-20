@@ -1,1 +1,1 @@
-# Image-Processing-Machine-Learning-and-More
+# Image Processing, Machine Learning, and More
